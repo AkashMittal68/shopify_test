@@ -1,4 +1,4 @@
-alert("HELLO1232");
+alert("MANISH");
 
 window.theme = window.theme || {};
 
