@@ -1,3 +1,5 @@
+alert("HELLO");
+
 window.theme = window.theme || {};
 
 /* ================ SLATE ================ */
