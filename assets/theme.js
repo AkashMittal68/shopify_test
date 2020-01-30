@@ -1,4 +1,4 @@
-alert("HELLO");
+alert("HELLO1232");
 
 window.theme = window.theme || {};
 
